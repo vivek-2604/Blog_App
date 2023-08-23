@@ -18,7 +18,7 @@ function Navbar() {
         <section className="flex flex-col md:flex-row">
           <div className="w-1/3 text-3xl content-center text-white pl-12 py-1">
             <NavLink to="/">
-              <span className="text-4xl text-sky-600">S</span>oluteLabs
+              <span className="text-4xl text-sky-600">B</span>logApp
             </NavLink>
           </div>
           <div className="text-xl text-white py-1">
